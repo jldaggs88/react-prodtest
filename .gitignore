@@ -1,6 +1,4 @@
-#Files for GC Deployment
 app.yaml
 .gcloudignore
-# Deployment directories
 node_modules
 dist
